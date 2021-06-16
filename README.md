@@ -10,3 +10,5 @@ Third test is from Windows 10 vm used for the Keystone project.
 Hopefully this new commit will be verified.
 Forgot to tell git about signing key.
 Also forgot to tell git to always sign commits.
+
+That worked--trying it from my main Win 10 VM now.
