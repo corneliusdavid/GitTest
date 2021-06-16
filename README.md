@@ -15,4 +15,4 @@ That worked--trying it from my main Win 10 VM now.
 
 New test from old Windows 8.1 VM for the DCI project.
 Another test on Win 8.1--going to try automating passphase entry.
-
+Last test, now commits are signed with auto passphrase from Kleopatra!  :-)
