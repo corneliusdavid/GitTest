@@ -8,3 +8,4 @@ Second test is still from my main Windows 10 dev machine but will commit using S
 
 Third test is from Windows 10 vm used for the Keystone project.
 Hopefully this new commit will be verified.
+Forgot to tell git about signing key.
