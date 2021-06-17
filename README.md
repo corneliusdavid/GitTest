@@ -9,13 +9,9 @@ Second test is still from my main Windows 10 dev machine but will commit using S
 Third test is from Windows 10 vm used for the Keystone project.
 Hopefully this new commit will be verified.
 Forgot to tell git about signing key.
-Also forgot to tell git to always sign commits.
 
 That worked--trying it from my main Win 10 VM now.
 
 New test from old Windows 8.1 VM for the DCI project.
-Another test on Win 8.1--going to try automating passphase entry.
-Last test, now commits are signed with auto passphrase from Kleopatra!  :-)
 
 Laptop test--this is getting easier!
-must have forgotten a step...
