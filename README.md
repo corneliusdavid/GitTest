@@ -15,4 +15,4 @@ Laptop test--this is getting easier!
 Testing from Win 10 VM again with different email
 
 new test following instructions from my blog for a VM on VMware Fusion
-
+almost have the instructions from memory now--Delphi 7 VM on VMWare Fusion
