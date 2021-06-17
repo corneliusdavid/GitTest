@@ -18,3 +18,4 @@ Another test on Win 8.1--going to try automating passphase entry.
 Last test, now commits are signed with auto passphrase from Kleopatra!  :-)
 
 Laptop test--this is getting easier!
+must have forgotten a step...
