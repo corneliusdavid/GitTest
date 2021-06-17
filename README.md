@@ -13,3 +13,6 @@ That worked--trying it from my main Win 10 VM now.
 Laptop test--this is getting easier!
 
 Testing from Win 10 VM again with different email
+
+new test following instructions from my blog for a VM on VMware Fusion
+
