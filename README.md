@@ -17,3 +17,4 @@ The default is only 10 minutes!
 I changed it to 604,800 - or 1 week!
 
 Its now working well.   :-)
+how long is the default cached password?
