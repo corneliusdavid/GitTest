@@ -30,3 +30,4 @@ no, but now with the correct program known by Git, it should be.
 another vm on the mac
 back on my main vm, the passphrase is still cached.
 keystone vm change - again - private key properly imported
+back to the mac--everything ok?
