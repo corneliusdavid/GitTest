@@ -6,3 +6,4 @@ it all works well--all commits are now signed.
 
 Kleopatra installed.
 And now it's configured as the default GPG in git.
+And NOW, the original gpg key has been imported into Kleopatra!
