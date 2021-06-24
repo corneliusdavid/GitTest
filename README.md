@@ -20,9 +20,3 @@ Its now working well.   :-)
 how long is the default cached password?
 
 back on the laptop, is the phrase still cached?
-nope. darn it! the documentation is so poor with this...  arg!
-
-on my main desktop, I've successully configured the cache to last awhile.
-
-replicating settings to the mac's vm
-now, more than 10 minutes since last commit--still cached?
