@@ -5,3 +5,4 @@ This repository has no source code, just a single README.md file used for testin
 it all works well--all commits are now signed.
 
 Kleopatra installed.
+And now it's configured as the default GPG in git.
