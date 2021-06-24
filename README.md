@@ -12,9 +12,4 @@ And NOW, the original gpg key has been imported into Kleopatra!
 
 How long does Kleopatra remember the passphrase?
 
-
-set expiration seconds 100000 (100k, just over 1 day)
-
-now does it still ask?
-
-*NO!*
+The default is only 10 minutes!
