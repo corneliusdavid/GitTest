@@ -27,3 +27,4 @@ on my main desktop, I've successully configured the cache to last awhile.
 replicating settings to the mac's vm
 now, more than 10 minutes since last commit--still cached?
 no, but now with the correct program known by Git, it should be.
+another vm on the mac
