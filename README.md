@@ -35,4 +35,4 @@ back on my main vm, the passphrase is still cached.
 
 keystone vm change - again - private key properly imported
 
-back to the mac--everything ok?
+back to the mac--everything ok? not quite...
