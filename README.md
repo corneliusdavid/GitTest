@@ -12,3 +12,4 @@ Not long enough. :-(
 Now, I've set it to 10 days!!
 That wasn't good enough--also need to up the PIN caching timeout.
 So many different settings in Kleoptra--documntation seems sparse. Tried another one....
+This is asking even more often than before--how do I make it stop??
