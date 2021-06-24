@@ -8,3 +8,4 @@ Kleopatra installed.
 And now it's configured as the default GPG in git.
 And NOW, the original gpg key has been imported into Kleopatra!
 How long does Kleopatra remember the passphrase?
+Not long enough. :-(
