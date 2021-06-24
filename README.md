@@ -15,3 +15,5 @@ How long does Kleopatra remember the passphrase?
 The default is only 10 minutes!
 
 I changed it to 604,800 - or 1 week!
+
+Sadly, it didn't work.
