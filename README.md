@@ -10,3 +10,4 @@ And NOW, the original gpg key has been imported into Kleopatra!
 How long does Kleopatra remember the passphrase?
 Not long enough. :-(
 Now, I've set it to 10 days!!
+That wasn't good enough--also need to up the PIN caching timeout.
