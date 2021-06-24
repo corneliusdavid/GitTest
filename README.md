@@ -15,3 +15,4 @@ So many different settings in Kleoptra--documntation seems sparse. Tried another
 This is asking even more often than before--how do I make it stop??
 set PIN expiration in days from 10 downto 0
 set expiration seconds 100000 (100k, just over 1 day)
+now does it still ask?
