@@ -29,3 +29,4 @@ now, more than 10 minutes since last commit--still cached?
 no, but now with the correct program known by Git, it should be.
 another vm on the mac
 back on my main vm, the passphrase is still cached.
+keystone vm change
